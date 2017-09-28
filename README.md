@@ -29,7 +29,8 @@ The application contains three main modules :
 A simple flow diagram here visualizes the interaction between different modules:
 <img src="/App_Usage.png?" width="600"/>
 
-As illustrated in the first figure, the user are able to select from a few provided predrawn graphs. That would not solve the meaning of a flexible application. Thus, a cool feature was provided to draw your own nodes and vertices, illustrated below. Granted, the UI to do so isn't the most intuitive (note the "strict" format required in the text box), but this is an interface I have been able to come up with in a short amount of time.
+As illustrated in from the main UI, the user is able to select from a few provided predrawn graphs. That would not solve the defintion for a flexible application. Well, don't worry! 
+A cool feature was provided to draw your own nodes and vertices, illustrated below. Granted, the UI to do so isn't the most intuitive (note the "strict" format required in the text box), but this is an interface I have been able to come up with in a short amount of time.
 
 <img src="/Use_Case1.png?" width="500"/>
 
